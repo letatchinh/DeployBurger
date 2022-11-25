@@ -50,10 +50,6 @@
       "last 1 safari version"
     ]
   },
-  "engines": {
-    "node": "v16.8.0",
-    "npm" : "7.21.0"
-  },
     "stack": "heroku-22"
  
 }
